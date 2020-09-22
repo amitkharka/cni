@@ -30,3 +30,6 @@ localhost:8080
 
 ## Latest News API
 [NewsAPI](https://newsapi.org/)
+
+## Screenshot
+![screenshot](./screenshot.png)
