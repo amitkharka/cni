@@ -42,6 +42,7 @@ body {
     padding: 4px;
     margin: 0 4px;
 }
+
 .categories__item[data-active="true"] {
     background-color: #e2001a;
 }
